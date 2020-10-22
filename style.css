@@ -1,0 +1,28 @@
+
+span{
+  font-weight: 700;
+}
+
+.Top h2{
+  font-family: 'Great Vibes', cursive;
+}
+
+.Top p{
+  font-family: 'Raleway Slab', sans-serif;
+}
+
+.Middle h2{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.Middle p{
+  font-family: 'Roboto Slab', serif;
+}
+
+.Bottom h2{
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.Bottom p{
+  font-family: Lato, sans-serif;
+}
